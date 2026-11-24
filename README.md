@@ -1,45 +1,37 @@
-<h1 align="center">Salut, moi c'est Walker 👋</h1>
-
 <p align="center">
-  Étudiant en informatique à Bukavu (RDC) · je conçois et code des apps mobiles et des outils pour des besoins locaux.
+  <img src="./header.svg" alt="Terminal : metoushela walker, développeur full-stack. Kotlin, Flutter, C++, web, IA." width="100%">
 </p>
 
----
-
-### 🌱 Projet phare : Mkulima Pay
-
-Application Android native qui donne aux agriculteurs de la RDC une identité numérique vérifiable et un accès au microcrédit.
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1B5E20?style=flat&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F9A825?style=flat&logo=firebase&logoColor=white)
-
-👉 [Voir le dépôt](https://github.com/metoushael/mkulima-pay)
-
----
-
-### 🛠️ Ce que j'utilise
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F9A825?style=flat&logo=firebase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
----
-
-### 📂 Mes projets
-
-| Projet | En bref |
-|---|---|
-| [**Mkulima Pay**](https://github.com/metoushael/mkulima-pay) | Identité numérique et microcrédit pour agriculteurs (Kotlin, Compose) |
-| [**MEX-Engine**](https://github.com/metoushael/MEX-Engine) | Moteur en C++ |
-| [**StockTout**](https://github.com/metoushael/STOCKTOUT) | Gestion de stock et de ventes pour boutiquiers (Flutter) |
-| [**bulletin_scolaire**](https://github.com/metoushael/bulletin_scolaire) | Saisie des cotes et génération de bulletins (Flutter) |
-
----
-
 <p align="center">
-  📍 Bukavu, RDC · 💬 Ouvert aux collaborations
+  <a href="https://metoushael.netlify.app"><b>metoushael.netlify.app</b></a> · logiciels desktop, web, mobile et IA
 </p>
+
+<br>
+
+### `~/projets`
+
+| Projet | Stack | Ce que ça fait |
+|:--|:--|:--|
+| [**mkulima-pay**](https://github.com/metoushael/mkulima-pay) | Kotlin · Compose · Firebase | Identité numérique et microcrédit pour les agriculteurs de la RDC |
+| [**mex-engine**](https://github.com/metoushael/MEX-Engine) | C++ | Projet C++ |
+| [**stocktout**](https://github.com/metoushael/STOCKTOUT) | Flutter · Dart | Gestion de stock et de ventes pour les boutiquiers |
+| [**bulletin_scolaire**](https://github.com/metoushael/bulletin_scolaire) | Flutter · Dart | Saisie des cotes et génération des bulletins |
+
+Sendy, Strate, VideoCompressor et Interview Prep AI sont sur le [portfolio](https://metoushael.netlify.app).
+
+<br>
+
+<a href="https://github.com/metoushael/mkulima-pay">
+  <img src="./mkulima-pay-social-preview.png" alt="Mkulima Pay : identité numérique et microcrédit pour les agriculteurs de la RDC" width="100%">
+</a>
+
+<!--
+Serpent des contributions : à activer quand le compte aura de l'activité.
+1. Ajoute .github/workflows/snake.yml, puis lance-le une fois (Actions > Generate snake > Run workflow).
+2. Retire les marques de commentaire autour du bloc ci-dessous.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metoushael/metoushael/output/github-snake-dark.svg">
+  <img alt="Contributions" src="https://raw.githubusercontent.com/metoushael/metoushael/output/github-snake.svg" width="100%">
+</picture>
+-->
